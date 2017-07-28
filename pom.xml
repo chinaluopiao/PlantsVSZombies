@@ -20,6 +20,14 @@
             <artifactId>LGame-JavaSE-Core</artifactId>
             <version>0.2.95</version>
         </dependency>
+
+        <!-- 新版不兼容 -->
+        <!--<dependency>
+            <groupId>org.loon</groupId>
+            <artifactId>LGame-LSE</artifactId>
+            <version>1.2</version>
+        </dependency>-->
+
     </dependencies>
 
 
