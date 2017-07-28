@@ -1,0 +1,4 @@
+IP=127.0.0.1
+TCP_PORT=8888
+UDP_PORT=2226
+NAME=your name 
